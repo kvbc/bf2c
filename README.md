@@ -3,4 +3,4 @@
 Very simple Brainfuck to C transpiler.
 &nbsp;
 
-https://kvbc.github.io/bf2c/index.html
+https://kvbc.github.io/bf2c
