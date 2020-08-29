@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+textarea {
+    tab-size: 4;
+    margin-top: 30px;
+}
